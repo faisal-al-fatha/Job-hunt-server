@@ -1,0 +1,167 @@
+{
+  "fresherJobs": [
+    {
+      "id": "1",
+      "companyLogo": "https://images-platform.99static.com/3C9QqJGcaML126tPw1TCdE-gU-Y=/500x500/top/smart/99designs-contests-attachments/15/15791/attachment_15791649",
+      "companyName": "Data Soft ",
+      "jobType": "Remote / Onsite",
+      "jobLocation": "Dhaka",
+      "positionName": "Junior Data Scientist"
+    },
+    {
+      "id": "2",
+      "companyLogo": "https://pbs.twimg.com/profile_images/1271018394645680129/lFVKMkSc_400x400.jpg",
+      "companyName": "Leadsoft ",
+      "jobType": "Remote",
+      "jobLocation": "Dubai",
+      "positionName": "Junior Front-end Web Developer"
+    },
+    {
+      "id": "3",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/768px-Google_%22G%22_Logo.svg.png",
+      "companyName": "Google",
+      "jobType": "Remote / On site",
+      "jobLocation": "Delli",
+      "positionName": "Android Developer"
+    },
+    {
+      "id": "4",
+      "companyLogo": "https://1000logos.net/wp-content/uploads/2016/11/fb-logo.jpg",
+      "companyName": "Facebook",
+      "jobType": "Remote",
+      "jobLocation": "NewYork",
+      "positionName": "Software Engineer"
+    },
+    {
+      "id": "5",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
+      "companyName": "Tesla",
+      "jobType": "On site",
+      "jobLocation": "USA",
+      "positionName": "Machine Learning Expert"
+    },
+    {
+      "id": "6",
+      "companyLogo": "https://dynamicmedia.accenture.com/is/image/accenture/accenture-logo-768x768?qlt=85&wid=1200&ts=1663852195066&$auto-png-alpha$&fit=constrain&dpr=off",
+      "companyName": "Accenture ",
+      "jobType": "Remote",
+      "jobLocation": "Tokyo",
+      "positionName": "Digital marketing Expert"
+    },
+    {
+      "id": "7",
+      "companyLogo": "https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png?ssl=1",
+      "companyName": "Oracle",
+      "jobType": "On site",
+      "jobLocation": "Helsinki",
+      "positionName": "Ios Developer"
+    },
+    {
+      "id": "8",
+      "companyLogo": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/deloitte/us-deloitte-logo.jpg",
+      "companyName": "Delloite Consulting ",
+      "jobType": "Remote",
+      "jobLocation": "Barlin",
+      "positionName": "React Developer"
+    },
+    {
+      "id": "9",
+      "companyLogo": "https://cognizant.scene7.com/is/image/cognizant/CognizantLogo400-6",
+      "companyName": "Cognizant ",
+      "jobType": "Remote",
+      "jobLocation": "Mosko",
+      "positionName": "Mern Developer"
+    },
+    {
+      "id": "10",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/2048px-Orange_logo.svg.png",
+      "companyName": "Orange",
+      "jobType": "Onsite",
+      "jobLocation": "London",
+      "positionName": "Backend Engineer"
+    }
+  ],
+  "SeniorJobs": [
+    {
+      "id": "17",
+      "companyLogo": "https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png?ssl=1",
+      "companyName": "Oracle",
+      "jobType": "On site",
+      "jobLocation": "Helsinki",
+      "positionName": "Expert Ios Developer"
+    },
+    {
+      "id": "18",
+      "companyLogo": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/deloitte/us-deloitte-logo.jpg",
+      "companyName": "Delloite Consulting ",
+      "jobType": "Remote",
+      "jobLocation": "Barlin",
+      "positionName": "senior React Developer"
+    },
+    {
+      "id": "19",
+      "companyLogo": "https://cognizant.scene7.com/is/image/cognizant/CognizantLogo400-6",
+      "companyName": "Cognizant ",
+      "jobType": "Remote",
+      "jobLocation": "Mosko",
+      "positionName": "Senior Mern Developer"
+    },
+    {
+      "id": "20",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/2048px-Orange_logo.svg.png",
+      "companyName": "Orange",
+      "jobType": "Onsite",
+      "jobLocation": "London",
+      "positionName": "Senior Backend Engineer"
+    },
+    {
+      "id": "11",
+      "companyLogo": "https://images-platform.99static.com/3C9QqJGcaML126tPw1TCdE-gU-Y=/500x500/top/smart/99designs-contests-attachments/15/15791/attachment_15791649",
+      "companyName": "Data Soft ",
+      "jobType": "Remote / Onsite",
+      "jobLocation": "Dhaka",
+      "positionName": "Senior Data Scientist"
+    },
+    {
+      "id": "12",
+      "companyLogo": "https://pbs.twimg.com/profile_images/1271018394645680129/lFVKMkSc_400x400.jpg",
+      "companyName": "Leadsoft ",
+      "jobType": "Remote",
+      "jobLocation": "Dubai",
+      "positionName": "Senior Front-end Web Developer"
+    },
+    {
+      "id": "13",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/768px-Google_%22G%22_Logo.svg.png",
+      "companyName": "Google",
+      "jobType": "Remote / On site",
+      "jobLocation": "Delli",
+      "positionName": "Senior Android Developer"
+    },
+    {
+      "id": "14",
+      "companyLogo": "https://1000logos.net/wp-content/uploads/2016/11/fb-logo.jpg",
+      "companyName": "Facebook",
+      "jobType": "Remote",
+      "jobLocation": "NewYork",
+      "positionName": "Senior Software Engineer"
+    },
+    {
+      "id": "15",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/IBM_logo_in.jpg",
+      "companyName": "IBM",
+      "jobType": "On site",
+      "jobLocation": "Dablin",
+      "positionName": "Senior Machine Learning Expert"
+    },
+    {
+      "id": "16",
+      "companyLogo": "https://dynamicmedia.accenture.com/is/image/accenture/accenture-logo-768x768?qlt=85&wid=1200&ts=1663852195066&$auto-png-alpha$&fit=constrain&dpr=off",
+      "companyName": "Accenture ",
+      "jobType": "Remote",
+      "jobLocation": "Tokyo",
+      "positionName": "Senior Digital marketing Expert"
+    }
+  ],
+  "topItCompanies": []
+}
