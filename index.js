@@ -15,6 +15,19 @@ app.get('/job-data', (req, res) => {
     res.send(data)
 })
 
+app.get('/job-data/fr/6', (req,res)=>{
+    
+    const top6FrJobs = data.fresherJobs.slice(0, 6);
+    console.log(top6FrJobs);
+    res.send(top6FrJobs);
+});
+app.get('/job-data/sr/6', (req,res)=>{
+    
+    const top6FrJobs = data.SeniorJobs.slice(0, 6);
+    console.log(top6SrJobs);
+    res.send(top6SrJobs);
+});
+
 app.get('/fresher-job/:id', (req, res) => {
     const id = req.params.id;
     const job = data.fresherJobs.find(j => j.id === id);
